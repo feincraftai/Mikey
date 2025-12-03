@@ -25,3 +25,7 @@ Displays a real-time volume meter for your selected microphone device in a resiz
   
 ## Getting Started  
   
+- Download the Zip file: https://github.com/feincraftai/Mikey/releases/download/Release/Mikey.v1.0.zip
+- Extract and click Setup.exe
+<img width="375" height="177" alt="explorer_GRNS8cHkDZ" src="https://github.com/user-attachments/assets/785bbdc7-3f91-4a05-9121-aea2e6918633" />
+The setup won't ask any question and should take just a few seconds. 
